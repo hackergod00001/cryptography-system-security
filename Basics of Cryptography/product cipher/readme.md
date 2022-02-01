@@ -11,3 +11,7 @@ This lab provides insight into:
 - Any Programming language and Knowledge of Ciphering .
 
 ## Solution:
+we will use 
+- Playfair Cipher
+- Double Columnar Transposition
+and make a product cipher using the above two.
