@@ -189,3 +189,81 @@ if __name__ == '__main__':
 # c12252ceda8be8994d5fa0290a47231c1d16aae3
 # time taken for sha1:  0.0015562999979010783
 # =============================================================================
+
+
+######MD5 for files###################################
+# =============================================================================
+# runfile('C:/Users/maste/Desktop/CSS/Exp 6/md5sha1.py', wdir='C:/Users/maste/Desktop/CSS/Exp 6')
+# 
+# Total No. of input please:3
+#  
+# ====================================
+# Enter your Choise:
+# 1. input String
+# 2. input files (Note: File size of 1kb, 5kb & 10kb only)
+# ====================================
+# 
+# 2
+#  
+# ====================================
+# Enter your Choise:
+# 1. MD5
+# 2. SHA1
+# ====================================
+# 
+# 1
+# 
+# Enter the file name: C:\Users\maste\Desktop\CSS\Exp 6\1.txt
+# md5 output for file  1
+# 3c1c79f12bfcd993d3bfc3af3ef04d30
+# time taken for md5:  0.0019910000009986106
+# 
+# Enter the file name: C:\Users\maste\Desktop\CSS\Exp 6\5.txt
+# md5 output for file  2
+# 86311014c5b9d89db752216aa53e95a7
+# time taken for md5:  0.0020225000007485505
+# 
+# Enter the file name: C:\Users\maste\Desktop\CSS\Exp 6\10.txt
+# md5 output for file  3
+# fa5a908efa2a28aa737d8fc4d2f28b38
+# time taken for md5:  0.0032505999988643453
+# =============================================================================
+
+######SHA1 for files###################################
+# =============================================================================
+# runfile('C:/Users/maste/Desktop/CSS/Exp 6/md5sha1.py', wdir='C:/Users/maste/Desktop/CSS/Exp 6')
+# 
+# Total No. of input please:3
+#  
+# ====================================
+# Enter your Choise:
+# 1. input String
+# 2. input files (Note: File size of 1kb, 5kb & 10kb only)
+# ====================================
+# 
+# 2
+#  
+# ====================================
+# Enter your Choise:
+# 1. MD5
+# 2. SHA1
+# ====================================
+# 
+# 2
+# 
+# Enter the file name: C:\Users\maste\Desktop\CSS\Exp 6\1.txt
+# sha1 output for file  1
+# bae4a5764d9a429492a2d0ae3b14317a8ae735d9
+# time taken for sha1:  0.0028194999977131374
+# 
+# Enter the file name: C:\Users\maste\Desktop\CSS\Exp 6\5.txt
+# sha1 output for file  2
+# 2f30556e8bff3f4ab2530dfb17af966e11c13dc9
+# time taken for sha1:  0.0019936000026063994
+# 
+# Enter the file name: C:\Users\maste\Desktop\CSS\Exp 6\10.txt
+# sha1 output for file  3
+# e218ef09ca2b4b2b01a7d0a982adff2795db2c1f
+# time taken for sha1:  0.0035685999973793514
+# =============================================================================
+
