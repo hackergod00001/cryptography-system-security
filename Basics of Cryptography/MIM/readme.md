@@ -19,3 +19,4 @@ client1 ------> server
 client1 <------ server
                 server <------ client2              
                 
+as client 1 message is going to server and then server is sending that message to client2 and vice versa and this server here is the tom (attacker) and client1 and 2 are alice and bob
